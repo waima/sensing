@@ -1,0 +1,7 @@
+<device_state libver="3.1" filemajor="1" fileminor="0">
+    <device name="DFG/USB2-lt" base_name="DFG/USB2-lt" unique_name="DFG/USB2-lt 28106C7">
+        <videonorm>NTSC_M</videonorm>
+        <videoformat>Y800 (640x480)</videoformat>
+        <inputchannel>00 Video: Composite</inputchannel>
+    </device>
+</device_state>
